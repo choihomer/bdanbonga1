@@ -42,7 +42,7 @@ function App() {
       <div className="imgBox">
         <img src={bgimg}></img>
       </div>
-      
+      <div></div>
       <footer>
         <div className="row mainFooter">
           <span className="col-lg-4 col-md-12">
